@@ -1,0 +1,19 @@
+.foto-name{
+    color: white;
+    font-size: 2em;
+}
+.foto-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto{
+    width: 10%;
+    height: 100px;
+    background-color: teal;
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

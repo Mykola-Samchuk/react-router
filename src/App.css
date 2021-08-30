@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.link{
+  margin: 30px;
+}
+.link-button{
+  text-decoration: none;
+  color: white;
+  padding: 1em;
+  margin: 10px;
+  border: 1px solid white;
+  border-radius: 5px
+}
+.selected{
+  background-color: grey
+}
+@import "../src/components/home/home.css";
+@import "../src/components/publication/publication.css";
+@import "../src/components/foto/foto.css";
+@import "../src/components/contact/contact.css";

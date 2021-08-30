@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(6 21 27 / 84%);
+  }
+  .public-link {
+    color: rgb(255, 255, 255);
+  }
+  
+  .cmponent {
+    width: 100%;
+  }
+  .all-content {
+    margin: 2em 12em 5em 18em;
+    width: 60%;
+    height: 60%;
+    background-color: rgb(16 38 48 / 84%);
+    border-radius: 20px;
+  }
+  .head {
+    padding-top: 2em;
+    padding-left: 2em;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .name-content {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+  }
+  .photo {
+    border-radius: 50%;
+    height: 6em;
+  }
+  .img-post {
+    border-radius: 30px;
+  }
+  .post {
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+  }
+  .img-post {
+    width: 95%;
+    margin-bottom: 1em;
+  }
+  .public{
+      color: white;
+      font-size: 2em;
+  }

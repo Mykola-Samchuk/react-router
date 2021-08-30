@@ -1,0 +1,35 @@
+.contact{
+    background-color: #ffffff91;
+    width: 90%;
+    margin-bottom: 1em;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.block-all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    background-color: #0f0e0e1a;
+    width: 15%;
+    /* margin-top: 2em; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.search-contact{
+    background-color: #e7e7e71a;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.contact-title{
+    color: white;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 32px;
+}
